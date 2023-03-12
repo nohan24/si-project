@@ -1,3 +1,6 @@
+<?php
+include('../inc/mysql.php');
+?>
 <!DOCTYPE html>
 <html lang="en">
 
