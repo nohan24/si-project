@@ -1,2 +1,2 @@
 <?php
-header('Location:page/Ajout.php');
+header('Location:page/ajout.php');
